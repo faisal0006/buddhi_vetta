@@ -182,12 +182,12 @@ By the end of this project, we aim to deliver:
 
 Fleet_maintainance_prediction/  
 │  
-├── backend/           # ML logic and processing  
-├── frontend/          # User interface  
-├── models/            # Trained models  
-├── notebooks/         # EDA and experimentation  
-├── data/              # Dataset  
-├── app.py / server    # Application entry point  
+├── backend/         
+├── frontend/          
+├── models/             
+├── notebooks/         
+├── data/             
+├── app.py / server    
 └── README.md  
 
 ---
